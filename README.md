@@ -58,12 +58,12 @@
 - [MonoDevelop](https://monodevelop.com)
 
 ## **Minecraft Servers**
-mc.hypixel.net
+- [Hypixel](hypixel.net)
 cubecraft.net
 invadedlands.net
 play.skycade.net
 mineplex.com
-play.wynncraft.com
+wynncraft.com
 munchymc.com
 
 ## **Game Stores**
@@ -73,9 +73,9 @@ munchymc.com
 - [Humble Bundle](https://humblebundle.com/store)
 
 ## **Graphics**
-- [Photopea](https://photopea.com - Online photo editor, similar to Photoshop)
-- [Photoshop](https://photoshop.com - The most famous photo editor)
-- [GIMP](https://gimp.org - Free Photoshop alternative)
+- [Photopea](https://photopea.com) - Online photo editor, similar to Photoshop
+- [Photoshop](https://photoshop.com) - The most famous photo editor
+- [GIMP](https://gimp.org) - Free Photoshop alternative
 
 ## **Other**
 - [Ninite](https://ninite.com) - used to download software in bulk

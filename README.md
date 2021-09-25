@@ -69,7 +69,7 @@
 ## **Game Stores**
 - [Steam](https://steampowered.com)
 - [Origin](https://origin.com)
-- [Store](https://store.epicgames.com)
+- [Epic Games Store](https://store.epicgames.com)
 - [Humble Bundle](https://humblebundle.com/store)
 
 ## **Graphics**

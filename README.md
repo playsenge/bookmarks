@@ -4,13 +4,13 @@
 
 ## **Web Browsers**
 - [Brave](https://brave.com)
-https://firefox.com
-https://torproject.org
+- [Firefox](https://firefox.com)
+- [Tor](https://torproject.org)
 
 ## **Music Players**
-https://spotify.com
-https://tidal.com
-https://music.amazon.com
+- [Spotify](https://spotify.com)
+- [TIDAL](https://tidal.com)
+- [Amazon Music](https://music.amazon.com)
 
 ## **Voice Chats**
 https://discord.com

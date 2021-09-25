@@ -58,13 +58,13 @@
 - [MonoDevelop](https://monodevelop.com)
 
 ## **Minecraft Servers**
-- [Hypixel](hypixel.net)
-cubecraft.net
-invadedlands.net
-play.skycade.net
-mineplex.com
-wynncraft.com
-munchymc.com
+- [Hypixel](https://hypixel.net)
+- [CubeCraft](https://cubecraft.net)
+- [InvadedLands](https://invadedlands.net)
+- [Skycade](https://skycade.net)
+- [Mineplex](https://mineplex.com)
+- [Wynncraft](https://wynncraft.com)
+- [MunchyMC](https://munchymc.com)
 
 ## **Game Stores**
 - [Steam](https://steampowered.com)
@@ -79,4 +79,4 @@ munchymc.com
 
 ## **Other**
 - [Ninite](https://ninite.com) - used to download software in bulk
-- [Heidoc](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool) - Used to download Windows/Office
+- [Windows ISO Downloader](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool) - Used to download Windows/Office

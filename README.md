@@ -2,23 +2,23 @@
 
 **Here's my favourite computer stuff... Mainly websites and apps!**
 
-## *Web Browsers*
+## **Web Browsers**
 - [Brave](https://brave.com)
 https://firefox.com
 https://torproject.org
 
-## *Music Players*
+## **Music Players**
 https://spotify.com
 https://tidal.com
 https://music.amazon.com
 
-## *Voice Chats*
+## **Voice Chats**
 https://discord.com
 https://skype.com
 https://teamspeak.com
 https://mumble.com
 
-## *Operating Systems*
+## **Operating Systems**
 https://windows.com
 https://ubuntu.com
 https://linuxmint.com
@@ -31,25 +31,25 @@ https://archlinux.org
 https://gentoo.org
 https://tails.boum.org
 
-## *Email Providers*
+## **Email Providers**
 https://gmail.com
 https://mail.yahoo.com
 https://outlook.com
 https://protonmail.com
 
-## *Videos*
+## **Videos**
 https://youtube.com
 https://vimeo.com
 https://dailymotion.com
 
-## *Social Media*
+## **Social Media**
 https://facebook.com
 https://twitter.com
 https://reddit.com
 https://instagram.com
 https://joinmastodon.com - Privacy centric
 
-## *Development*
+## **Development**
 https://notepad-plus-plus.org
 https://atom.io
 https://visualstudio.com
@@ -57,7 +57,7 @@ https://eclipse.org
 https://intellij.com
 https://monodevelop.com
 
-## *Minecraft Servers*
+## **Minecraft Servers**
 mc.hypixel.net
 cubecraft.net
 invadedlands.net
@@ -66,17 +66,17 @@ mineplex.com
 play.wynncraft.com
 munchymc.com
 
-## *Game Stores*
+## **Game Stores**
 https://steampowered.com
 https://origin.com
 https://store.epicgames.com
 https://humblebundle.com/store
 
-## *Graphics*
+## **Graphics**
 https://photopea.com - Online photo editor, similar to Photoshop
 https://photoshop.com - The most famous photo editor
 https://gimp.org - Free Photoshop alternative
 
-## *Other*
+## **Other**
 https://ninite.com - Used to download software in bulk
 https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool - Used to download Windows/Office

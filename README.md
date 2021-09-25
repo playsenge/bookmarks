@@ -15,7 +15,7 @@
 ## **Voice Chats**
 - [Discord](https://discord.com)
 - [Skype](https://skype.com)
-- [Teamspeak](https://teamspeak.com)
+- [TeamSpeak](https://teamspeak.com)
 - [Mumble](https://mumble.com)
 
 ## **Operating Systems**

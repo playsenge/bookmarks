@@ -21,24 +21,24 @@
 ## **Operating Systems**
 - [Windows](https://windows.com)
 - [Ubuntu](https://ubuntu.com)
-- [Linuxmint](https://linuxmint.com)
+- [Linux Mint](https://linuxmint.com)
 - [Debian](https://debian.org)
-- [Getfedora](https://getfedora.org)
-- [Suselinux](https://suselinux.com)
+- [Fedora](https://getfedora.org)
+- [Suse Linux](https://suselinux.com)
 - [Manjaro](https://manjaro.org)
-- [Ferenos](https://ferenos.weebly.com)
-- [Archlinux](https://archlinux.org)
+- [Feren OS](https://ferenos.weebly.com)
+- [Arch Linux](https://archlinux.org)
 - [Gentoo](https://gentoo.org)
 - [Tails](https://tails.boum.org)
 
 ## **Email Providers**
 - [Gmail](https://gmail.com)
-- [Mail](https://mail.yahoo.com)
+- [Yahoo Mail](https://mail.yahoo.com)
 - [Outlook](https://outlook.com)
-- [Protonmail](https://protonmail.com)
+- [ProtonMail](https://protonmail.com)
 
 ## **Videos**
-- [Youtube](https://youtube.com)
+- [YouTube](https://youtube.com)
 - [Vimeo](https://vimeo.com)
 - [Dailymotion](https://dailymotion.com)
 
@@ -47,15 +47,15 @@
 - [Twitter](https://twitter.com)
 - [Reddit](https://reddit.com)
 - [Instagram](https://instagram.com)
-- [Joinmastodon](https://joinmastodon.org - Privacy centric)
+- [Mastodon](https://joinmastodon.org)
 
 ## **Development**
-- [Notepad-plus-plus](https://notepad-plus-plus.org)
+- [Notepad++](https://notepad-plus-plus.org)
 - [Atom](https://atom.io)
-- [Visualstudio](https://visualstudio.com)
+- [Visual Studio](https://visualstudio.com)
 - [Eclipse](https://eclipse.org)
-- [Intellij](https://intellij.com)
-- [Monodevelop](https://monodevelop.com)
+- [IntelliJ](https://intellij.com)
+- [MonoDevelop](https://monodevelop.com)
 
 ## **Minecraft Servers**
 mc.hypixel.net
@@ -67,16 +67,16 @@ play.wynncraft.com
 munchymc.com
 
 ## **Game Stores**
-- [Steampowered](https://steampowered.com)
+- [Steam](https://steampowered.com)
 - [Origin](https://origin.com)
 - [Store](https://store.epicgames.com)
-- [Humblebundle](https://humblebundle.com/store)
+- [Humble Bundle](https://humblebundle.com/store)
 
 ## **Graphics**
 - [Photopea](https://photopea.com - Online photo editor, similar to Photoshop)
 - [Photoshop](https://photoshop.com - The most famous photo editor)
-- [Gimp](https://gimp.org - Free Photoshop alternative)
+- [GIMP](https://gimp.org - Free Photoshop alternative)
 
 ## **Other**
-- [Ninite](https://ninite.com - Used to download software in bulk)
-- [Heidoc](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool - Used to download Windows/Office)
+- [Ninite](https://ninite.com) - used to download software in bulk
+- [Heidoc](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool) - Used to download Windows/Office

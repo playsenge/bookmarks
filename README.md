@@ -47,7 +47,7 @@ https://facebook.com
 https://twitter.com
 https://reddit.com
 https://instagram.com
-https://joinmastodon.com - Privacy centric
+https://joinmastodon.org - Privacy centric
 
 ## **Development**
 https://notepad-plus-plus.org

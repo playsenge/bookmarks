@@ -13,49 +13,49 @@
 - [Amazon Music](https://music.amazon.com)
 
 ## **Voice Chats**
-https://discord.com
-https://skype.com
-https://teamspeak.com
-https://mumble.com
+- [Discord](https://discord.com)
+- [Skype](https://skype.com)
+- [Teamspeak](https://teamspeak.com)
+- [Mumble](https://mumble.com)
 
 ## **Operating Systems**
-https://windows.com
-https://ubuntu.com
-https://linuxmint.com
-https://debian.org
-https://getfedora.org
-https://suselinux.com
-https://manjaro.org
-https://ferenos.weebly.com
-https://archlinux.org
-https://gentoo.org
-https://tails.boum.org
+- [Windows](https://windows.com)
+- [Ubuntu](https://ubuntu.com)
+- [Linuxmint](https://linuxmint.com)
+- [Debian](https://debian.org)
+- [Getfedora](https://getfedora.org)
+- [Suselinux](https://suselinux.com)
+- [Manjaro](https://manjaro.org)
+- [Ferenos](https://ferenos.weebly.com)
+- [Archlinux](https://archlinux.org)
+- [Gentoo](https://gentoo.org)
+- [Tails](https://tails.boum.org)
 
 ## **Email Providers**
-https://gmail.com
-https://mail.yahoo.com
-https://outlook.com
-https://protonmail.com
+- [Gmail](https://gmail.com)
+- [Mail](https://mail.yahoo.com)
+- [Outlook](https://outlook.com)
+- [Protonmail](https://protonmail.com)
 
 ## **Videos**
-https://youtube.com
-https://vimeo.com
-https://dailymotion.com
+- [Youtube](https://youtube.com)
+- [Vimeo](https://vimeo.com)
+- [Dailymotion](https://dailymotion.com)
 
 ## **Social Media**
-https://facebook.com
-https://twitter.com
-https://reddit.com
-https://instagram.com
-https://joinmastodon.org - Privacy centric
+- [Facebook](https://facebook.com)
+- [Twitter](https://twitter.com)
+- [Reddit](https://reddit.com)
+- [Instagram](https://instagram.com)
+- [Joinmastodon](https://joinmastodon.org - Privacy centric)
 
 ## **Development**
-https://notepad-plus-plus.org
-https://atom.io
-https://visualstudio.com
-https://eclipse.org
-https://intellij.com
-https://monodevelop.com
+- [Notepad-plus-plus](https://notepad-plus-plus.org)
+- [Atom](https://atom.io)
+- [Visualstudio](https://visualstudio.com)
+- [Eclipse](https://eclipse.org)
+- [Intellij](https://intellij.com)
+- [Monodevelop](https://monodevelop.com)
 
 ## **Minecraft Servers**
 mc.hypixel.net
@@ -67,16 +67,16 @@ play.wynncraft.com
 munchymc.com
 
 ## **Game Stores**
-https://steampowered.com
-https://origin.com
-https://store.epicgames.com
-https://humblebundle.com/store
+- [Steampowered](https://steampowered.com)
+- [Origin](https://origin.com)
+- [Store](https://store.epicgames.com)
+- [Humblebundle](https://humblebundle.com/store)
 
 ## **Graphics**
-https://photopea.com - Online photo editor, similar to Photoshop
-https://photoshop.com - The most famous photo editor
-https://gimp.org - Free Photoshop alternative
+- [Photopea](https://photopea.com - Online photo editor, similar to Photoshop)
+- [Photoshop](https://photoshop.com - The most famous photo editor)
+- [Gimp](https://gimp.org - Free Photoshop alternative)
 
 ## **Other**
-https://ninite.com - Used to download software in bulk
-https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool - Used to download Windows/Office
+- [Ninite](https://ninite.com - Used to download software in bulk)
+- [Heidoc](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool - Used to download Windows/Office)
